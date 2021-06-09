@@ -1,0 +1,14 @@
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\obj\Release\netcoreapp3.1\MISA.BL.csprojAssemblyReference.cache
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\obj\Release\netcoreapp3.1\MISA.BL.AssemblyInfoInputs.cache
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\obj\Release\netcoreapp3.1\MISA.BL.AssemblyInfo.cs
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\obj\Release\netcoreapp3.1\MISA.BL.csproj.CoreCompileInputs.cache
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\bin\Release\netcoreapp3.1\MISA.BL.deps.json
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\bin\Release\netcoreapp3.1\MISA.BL.dll
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\bin\Release\netcoreapp3.1\MISA.BL.pdb
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\bin\Release\netcoreapp3.1\MISA.Common.dll
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\bin\Release\netcoreapp3.1\MISA.DL.dll
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\bin\Release\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\bin\Release\netcoreapp3.1\MISA.DL.pdb
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\obj\Release\netcoreapp3.1\MISA.BL.csproj.CopyComplete
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\obj\Release\netcoreapp3.1\MISA.BL.dll
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.BL\obj\Release\netcoreapp3.1\MISA.BL.pdb

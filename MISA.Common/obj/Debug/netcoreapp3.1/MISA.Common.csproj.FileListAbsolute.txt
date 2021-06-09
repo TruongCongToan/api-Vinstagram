@@ -1,0 +1,36 @@
+D:\PRIVATE\GitHub\MN.WebExample\WDT\WEB15B_2021_M2\Api\MISA.CukCuk\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.deps.json
+D:\PRIVATE\GitHub\MN.WebExample\WDT\WEB15B_2021_M2\Api\MISA.CukCuk\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.dll
+D:\PRIVATE\GitHub\MN.WebExample\WDT\WEB15B_2021_M2\Api\MISA.CukCuk\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+D:\PRIVATE\GitHub\MN.WebExample\WDT\WEB15B_2021_M2\Api\MISA.CukCuk\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache
+D:\PRIVATE\GitHub\MN.WebExample\WDT\WEB15B_2021_M2\Api\MISA.CukCuk\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+D:\PRIVATE\GitHub\MN.WebExample\WDT\WEB15B_2021_M2\Api\MISA.CukCuk\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+D:\PRIVATE\GitHub\MN.WebExample\WDT\WEB15B_2021_M2\Api\MISA.CukCuk\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+D:\PRIVATE\GitHub\MN.WebExample\WDT\WEB15B_2021_M2\Api\MISA.CukCuk\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
+D:\PRIVATE\GitHub\MN.WebExample\WDT\WEB15B_2021_M2\Api\MISA.CukCuk\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Dj Chip\Documents\Misa\MISA.CukCuk- Kiến trúc ứng dụng - Base Class\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.deps.json
+C:\Users\Dj Chip\Documents\Misa\MISA.CukCuk- Kiến trúc ứng dụng - Base Class\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.dll
+C:\Users\Dj Chip\Documents\Misa\MISA.CukCuk- Kiến trúc ứng dụng - Base Class\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Dj Chip\Documents\Misa\MISA.CukCuk- Kiến trúc ứng dụng - Base Class\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache
+C:\Users\Dj Chip\Documents\Misa\MISA.CukCuk- Kiến trúc ứng dụng - Base Class\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+C:\Users\Dj Chip\Documents\Misa\MISA.CukCuk- Kiến trúc ứng dụng - Base Class\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+C:\Users\Dj Chip\Documents\Misa\MISA.CukCuk- Kiến trúc ứng dụng - Base Class\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dj Chip\Documents\Misa\MISA.CukCuk- Kiến trúc ứng dụng - Base Class\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
+C:\Users\Dj Chip\Documents\Misa\MISA.CukCuk- Kiến trúc ứng dụng - Base Class\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Dj Chip\Documents\Misa\Project_Cuoi_Ky-Back_End\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.deps.json
+C:\Users\Dj Chip\Documents\Misa\Project_Cuoi_Ky-Back_End\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.dll
+C:\Users\Dj Chip\Documents\Misa\Project_Cuoi_Ky-Back_End\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Dj Chip\Documents\Misa\Project_Cuoi_Ky-Back_End\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache
+C:\Users\Dj Chip\Documents\Misa\Project_Cuoi_Ky-Back_End\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+C:\Users\Dj Chip\Documents\Misa\Project_Cuoi_Ky-Back_End\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+C:\Users\Dj Chip\Documents\Misa\Project_Cuoi_Ky-Back_End\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dj Chip\Documents\Misa\Project_Cuoi_Ky-Back_End\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
+C:\Users\Dj Chip\Documents\Misa\Project_Cuoi_Ky-Back_End\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.deps.json
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.dll
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.Common\bin\Debug\netcoreapp3.1\MISA.Common.pdb
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csprojAssemblyReference.cache
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfoInputs.cache
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.AssemblyInfo.cs
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.csproj.CoreCompileInputs.cache
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.dll
+C:\Users\Dj Chip\Documents\Nhat ITSS\Project_Cuoi_Ky-Back_End\MISA.Common\obj\Debug\netcoreapp3.1\MISA.Common.pdb
